@@ -14,6 +14,8 @@ from bs4 import BeautifulSoup
 # config.py
 from config import tokenpath, credentialpath
 
+# Original code from https://www.geeksforgeeks.org/how-to-read-emails-from-gmail-using-gmail-api-in-python/
+
 class Gmail:
     def __init__(self):
         SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
