@@ -2,7 +2,7 @@
 
 ## What does this script do?
 
-It continuously visits openm market page to check if the product is sold out,
+It continuously visits open market page to check if the product is sold out,
 
 and if not, sends notification to user's phone via [Pushbullet](https://www.pushbullet.com)
 
